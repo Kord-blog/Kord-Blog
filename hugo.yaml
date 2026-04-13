@@ -1,0 +1,7 @@
+baseURL: "https://[Kord-Blog].github.io/kord-blog/"
+title: "KORD | Automation for Solo-Preneurs"
+theme: "hugo-bearblog"
+
+params:
+  author: "System Architect"
+  description: "Eliminating non-billable friction for Solo-Preneurs."
