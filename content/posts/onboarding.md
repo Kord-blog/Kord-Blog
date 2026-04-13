@@ -1,7 +1,7 @@
 ---
 title: "Automate Client Onboarding for $0"
 date: 2026-04-13
-draft:false
+draft: false
 ---
 ### The Problem
 Most solo-preneurs waste 60 minutes manually setting up folders and sending "Welcome" emails every time they get a new client. That is an hour of "Non-Billable Friction" (work you don't get paid for).
