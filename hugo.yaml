@@ -7,4 +7,4 @@ params:
   description: "Eliminating non-billable friction for Solo-Preneurs."
 relativeURLs: "true"
 relativeURLs: "true'
-canonifyURLs: 'true"
+canonifyURLs: "true"
